@@ -1,0 +1,13 @@
+streamlit
+streamlit-chat
+requests
+pandas
+matplotlib
+bs4
+langchain-huggingface
+huggingface_hub
+transformers
+accelarate
+bitsandbytes
+langchain
+fpdf
